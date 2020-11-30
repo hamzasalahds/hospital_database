@@ -33,8 +33,8 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 -----------------------------------------------------------------------------------	
 ##  <div align="center">  Statement of Requirements 
 
-##### This is a summary of all users’ requirements to develop a single shared database.
-######  The database should store the following information: ####
+###### This is a summary of all users’ requirements to develop a single shared database.
+
 * Patient: 
   - Information: Full Name, Phone Number, Home Address. 
 * Symptom: 
