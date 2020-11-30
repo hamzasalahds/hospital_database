@@ -6,7 +6,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 	 	 - interviewing Stakeholders/doctors/nurses/users.
 	  	- Check existing forms, spreadsheets, databases, documents databases.
 
-**Building Conceptual Model*
+**Building Conceptual Model
 ######  “What is required?” not “How is it achieved?” ######
   - Obtain a detailed description properties such as the possible entities.
   - Provides us with a high-level overview of the business domain and the things involved in this domain. We use this to communicate with stakeholders.
