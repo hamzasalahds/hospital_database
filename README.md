@@ -29,7 +29,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 * Doctor 1: *“I really am looking for the safety of my staff and fellow doctors and nurses. COVID is extremely contagious and therefore I request a detailed info of doctors and staff who are and have treated COVID patients to limit the exposure of this virus.”*
 
 * Hospital CEO: *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others, as well as provide a dataset to for visualization to compare with other hospitals to provide insights and how we stand between other major care providers.”*
-
+==================
 ------	
 ##  <div align="center">  Statement of Requirements 
 
