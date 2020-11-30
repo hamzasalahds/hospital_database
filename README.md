@@ -8,10 +8,10 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 *	**Building Conceptual Model**
 ######  “What is required?” not “How is it achieved?” ######
-	-	Obtain a detailed description properties such as the possible entities.
+-	Obtain a detailed description properties such as the possible entities.
   - Provides us with a high-level overview of the business domain and the things involved in this domain. We use this to communicate with stakeholders.
 *	**Building Logical Model**
-  	- Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
+-	Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
 	- Insert primary key, foreign keys in this stage.
      	- which attribute type (char, int, varchar (50) etc..) to choose
      	- Database properties: flexibility for change, control of duplication and how best to represent the constraints.
