@@ -6,9 +6,9 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 	*	interviewing Stakeholders/doctors/nurses/users.
 	*	check existing forms, spreadsheets, databases, documents databases.
 
-2.	**Building Conceptual Model**
+2.	**Building a Conceptual Model**
   	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
-3.	**Building Logical - Physical Model**
+3.	**Building a Logical - Physical Model**
   	*	Implementation of the logical model, construction of a database using MySQL.
 	*	Here, i will define the entities and relationships.
 	*	Insert primary keys and foreign keys in this stage.
