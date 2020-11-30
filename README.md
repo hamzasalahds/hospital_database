@@ -1,4 +1,4 @@
-# Hospital Covid Case Tracker
+# <div align="center">  Hospital Covid Case Tracker </div>
 This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ###	Process	 ###
 *	**Requirements Gathering**
@@ -19,7 +19,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
   	*	Implementation of (Physical Model) involves the construction of a database  using an RDBMS such as MySQL or PostgreSQL depending on the needs of the business each program has its ups and downs according to the specification of a logical schema.
 ----------------------------------------------------------------------------------
 
-##  User Requirements ##
+##  <div align="center"> User Requirements 
 * Nurse 1: *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
 
 * Nurse 2: *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, room and floor they located at, we also do not want to have a lot of patients in our floors, we have limited beds and rooms.”*
@@ -31,7 +31,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 * Hospital CEO: *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others, as well as provide a dataset to for visualization to compare with other hospitals to provide insights and how we stand between other major care providers.”*
 
 
-##  Statement of Requirements ##
+##  <div align="center">  Statement of Requirements 
 
 #### This is a summary of all users’ requirements to develop a single shared database.
 ######  The database should store the following information: ####
@@ -53,7 +53,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
   - Room  #: Rooms are numbered using a standard three-digit numbering scheme.
 
 
-## <div align="center">  Conceptual Model ## </div>
+## <div align="center">  Conceptual Model </div>
 #### <div align="center"> 	A detailed description of the possible entities </div> ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)
 ##  <div align="center"> Logical/Physical MySQL Model </div>##
