@@ -64,7 +64,7 @@ Hello there !
 
 <div id="container">
     <img />
-    https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png
+ ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)
 </div>
 
 Hi !
