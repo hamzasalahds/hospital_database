@@ -1,10 +1,10 @@
 # Hospital Covid Case Tracker
 This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ###	Process	 ###
-**Requirements Gathering**
-	 -  Statement of requirements is the result of this step and it is a document that includes what users want from a system. The document should give a concise summary of all users’ requirements – not just a collection of individuals’ requirements – as the intention is to develop a single shared database by doing the following:
-	 	 - interviewing Stakeholders/doctors/nurses/users.
-	  	- Check existing forms, spreadsheets, databases, documents databases.
+*	**Requirements Gathering**
+	*Statement of requirements is the result of this step and it is a document that includes what users want from a system. The document should give a concise summary of all users’ requirements – not just a collection of individuals’ requirements – as the intention is to develop a single shared database by doing the following:
+	*interviewing Stakeholders/doctors/nurses/users.
+	*check existing forms, spreadsheets, databases, documents databases.
 
 *	**Building Conceptual Model**
 ######  “What is required?” not “How is it achieved?” ######
