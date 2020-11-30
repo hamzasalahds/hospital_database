@@ -24,7 +24,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 * 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, room and floor they located at, we also do not want to have a lot of patients in our floors, we have limited beds and rooms.”*
 
-* 	**Social Worker 1:** *“our department requests a database that stores phone numbers of patient family and work number to advice to get checked for COVID as well as quarantine."
+* 	**Social Worker 1:** *“our department requests a database that stores phone numbers of patient family and work number to advice to get checked for COVID as well as quarantine."*
 
 * 	**Doctor 1:** *“I really am looking for the safety of my staff and fellow doctors and nurses. COVID is extremely contagious and therefore I request a detailed info of doctors and staff who are and have treated COVID patients to limit the exposure of this virus.”*
 
