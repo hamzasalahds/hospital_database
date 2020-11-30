@@ -29,7 +29,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 * 	Hospital CEO: *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others, as well as provide a dataset to for visualization to compare with other hospitals to provide insights and how we stand between other major care providers.”*
 
-	
+-----------------------------------------------------------------------------------	
 ##  <div align="center">  Statement of Requirements 
 
 #### This is a summary of all users’ requirements to develop a single shared database.
@@ -51,7 +51,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
   - Floor #: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above.
   - Room  #: Rooms are numbered using a standard three-digit numbering scheme.
 
-
+-----------------------------------------------------------------------------------
 ## <div align="center">  Conceptual Model </div>
 #### <div align="center"> 	A detailed description of the possible entities </div> ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)
