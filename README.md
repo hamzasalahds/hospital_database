@@ -7,7 +7,7 @@
 	
 
 2.	**Building a Conceptual Model**
-  	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
+  	*	Provided a high-level overview of the business domain and the things involved in this domain.
 3.	**Building a Logical - Physical Model**
 	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
