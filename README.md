@@ -18,7 +18,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
   	*	Implementation of the logical model, construction of a database using MySQL.
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
-### Questionnaire survey## 
+### Questionnaire survey
 ####	Conducted a survey with actual nurses, pharmacists and lab technichians that work at hospitals to deterimine what they want from this database.  
 *	**Nurse 1:** *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
 
