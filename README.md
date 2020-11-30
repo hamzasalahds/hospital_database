@@ -35,21 +35,21 @@
 
 ###### This is a summary of all users’ requirements to develop a single shared database.
 
-* **Patient: 
+* **	Patient: 
   - Information: Full Name, Phone Number, Home Address, Contact Information and Relationship.
-* **Symptom: 
+* **	Symptom: 
   - Symptom Name	
   - Symptoms Start Date
   - COVID Testing Date
   - COVID Testing Method
   - Medication Issued
-* **Medication:
+* **	Medication:
   - Name
   - Serial Number (10 Digit number code)
-* **Medical Professional:
+* **	Medical Professional:
   - Doctor: Full Name
   - Nurse: Full Name
-* **COVID Wing:
+* **	COVID Wing:
   - Floor #: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above.
   - Room  #: Rooms are numbered using a standard three-digit numbering scheme.
 
