@@ -20,9 +20,14 @@ The database should store the following information:
 * Patient: 
   - Information: Full Name, Phone Number, Home Address. 
 * Symptom: 
-  - Symptoms start date, Last Testing Date, Testing Method and Medicine Issued.
-* Medication: The name of medicine given to patient and doses. 
-* Medical Professional: The name of the Doctor and Nurse who treated patient.
+  - Symptoms Start Date
+  - Last Testing Date
+  - Testing Method
+  - Medicine Issued
+* Medication: The name and serial number medicine given to patient. 
+* Medical Professional:
+  - Doctor: Full Name
+  - Nurse: Full Name
 * COVID Wing:
   - Floor #: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above.
   - Room  #: Rooms are numbered using a standard three-digit numbering scheme.
