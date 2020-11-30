@@ -1,6 +1,6 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
 This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
-###	_	Process	 ###
+###	Process	 ###
 *	**Requirements Gathering**
 	*	A summary of all users’ requirements 
 	*	interviewing Stakeholders/doctors/nurses/users.
@@ -17,7 +17,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 	*	Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
 *	**Building Physical Model**
   	*	Implementation of (Physical Model) involves the construction of a database  using an RDBMS such as MySQL or PostgreSQL depending on the needs of the business each program has its ups and downs according to the specification of a logical schema.
-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------	
 
 ##  <div align="center"> User Requirements 
 * Nurse 1: *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
@@ -30,7 +30,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 * Hospital CEO: *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others, as well as provide a dataset to for visualization to compare with other hospitals to provide insights and how we stand between other major care providers.”*
 
-
+------	
 ##  <div align="center">  Statement of Requirements 
 
 #### This is a summary of all users’ requirements to develop a single shared database.
