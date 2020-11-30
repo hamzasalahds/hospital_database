@@ -9,12 +9,11 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 2.	**Building a Conceptual Model**
   	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
 3.	**Building a Logical - Physical Model**
-  	*	Implementation of the logical model, construction of a database using MySQL.
 	*	Here, i will define the entities and relationships.
 	*	Insert primary keys and foreign keys in this stage.
      	*	Specify the date type for each attribute.
      	*	Gaurantee flexibility for future change, use Normalization (1NF,2NF,3NF) forms to prevent data duplication.
-	*	Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
+	*	Finally, Implementation of the logical model and construction of the database using MySQL.
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
