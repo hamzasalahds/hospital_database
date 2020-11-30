@@ -34,4 +34,5 @@ The database should store the following information:
 
 
 ##  Conceptual Model ##
-https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png
+![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)
+
