@@ -36,3 +36,5 @@ The database should store the following information:
 ##  Conceptual Model ##
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)
 
+##  Logical/Physical MySQL Model ##
+![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)
