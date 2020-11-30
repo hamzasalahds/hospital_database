@@ -3,16 +3,16 @@
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
 	*	A summary of all users’ requirements.
-	*	interviewing Stakeholders/doctors/nurses/users.
-	*	check existing forms, spreadsheets, databases, documents databases.
+	*	Created A Statement of Requirements
+	
 
 2.	**Building a Conceptual Model**
   	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
 3.	**Building a Logical - Physical Model**
 	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
-	*	Insert primary keys and foreign keys.
-     	*	Specify the date type for each attribute.
-     	*	Gaurantee flexibility for future change, use Normalization (1NF,2NF,3NF) forms to prevent data duplication.
+	*	Inserted primary keys and foreign keys.
+     	*	Specified the date type for each attribute.
+     	*	Gauranteed flexibility for future change, applied Normalization (1NF,2NF,3NF) forms to prevent data duplication.
 
 
 -----------------------------------------------------------------------------------	
