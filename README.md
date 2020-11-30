@@ -24,7 +24,9 @@ The database should store the following information:
   - Last Testing Date
   - Testing Method
   - Medicine Issued
-* Medication: The name and serial number medicine given to patient. 
+* Medication:
+  - Name
+  - Serial Number
 * Medical Professional:
   - Doctor: Full Name
   - Nurse: Full Name
