@@ -1,5 +1,5 @@
 # Hospital Covid Case Tracker
-
+This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ##  User Requirements ##
 * Nurse 1: *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
 
