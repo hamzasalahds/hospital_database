@@ -7,16 +7,15 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 	*	check existing forms, spreadsheets, databases, documents databases.
 
 2.	**Building Conceptual Model**
-	*	Obtain a detailed description properties such as the possible entities.
   	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
 3.	**Building Logical Model**
-	*	Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
-	*	Insert primary key, foreign keys in this stage.
-     	*	which attribute type (char, int, varchar (50) etc..) to choose
-     	*	Database properties: flexibility for change, control of duplication and how best to represent the constraints.
+	*	Here, i will define the entities and relationships.
+	*	Insert primary keys and foreign keys in this stage.
+     	*	Specify the date type for each attribute.
+     	*	Gaurantee flexibility for future change, use Normalization (1NF,2NF,3NF) forms to prevent data duplication.
 	*	Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
 4.	**Building Physical Model**
-  	*	Implementation of (Physical Model) involves the construction of a database  using an RDBMS such as MySQL or PostgreSQL depending on the needs of the business each program has its ups and downs according to the specification of a logical schema.
+  	*	Implementation of the logical model, construction of a database using MySQL.
 ----------------------------------------------------------------------------------	
 
 ##  <div align="center"> User Requirements 
