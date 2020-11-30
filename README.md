@@ -35,7 +35,7 @@
 
 ###### This is a summary of all users’ requirements to develop a single shared database.
 
-* **	Patient: 
+* **Patient:** 
   - Information: Full Name, Phone Number, Home Address, Contact Information and Relationship.
 * **Symptom:** 
   - Symptom Name	
