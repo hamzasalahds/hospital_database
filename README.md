@@ -35,7 +35,9 @@
 
 
 ##  Conceptual Model ##
+####  Obtain a detailed description properties such as the possible entities ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)
 
 ##  Logical/Physical MySQL Model ##
+#### The construction of a database using an MySQL ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)
