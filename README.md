@@ -16,7 +16,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 	*	Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
 4.	**Building Physical Model**
   	*	Implementation of the logical model, construction of a database using MySQL.
-----------------------------------------------------------------------------------	
+-----------------------------------------------------------------------------------	
 
 ##  <div align="center"> User Requirements </div> 
 *	Nurse 1: *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
