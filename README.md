@@ -17,12 +17,13 @@
 ##  Statement of Requirements ##
 
 The database should store the following information:
-1-	Patient: 
-a.	Information: Full Name, Phone Number, Home Address. 
-2-	Symptom: Symptoms start date, Last Testing Date, Testing Method and Medicine Issued.
-3-	Medication: The name of medicine given to patient and doses. 
-4-	Medical Professional: The name of the Doctor and Nurse who treated patient.
-5-	COVID Wing:
-a.	Floor number: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above (e.g., 02=second floor, 03=third floor).
-b.	Room number: Rooms are numbered using a standard three-digit numbering scheme (e.g., 102, 137, 246).
+* Patient: 
+  - Information: Full Name, Phone Number, Home Address. 
+* Symptom: 
+  - Symptoms start date, Last Testing Date, Testing Method and Medicine Issued.
+* Medication: The name of medicine given to patient and doses. 
+* Medical Professional: The name of the Doctor and Nurse who treated patient.
+* COVID Wing:
+a.	 -  Floor number: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above (e.g., 02=second floor, 03=third floor).
+b.	- Room number: Rooms are numbered using a standard three-digit numbering scheme (e.g., 102, 137, 246).
 
