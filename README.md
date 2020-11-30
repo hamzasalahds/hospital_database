@@ -9,7 +9,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 2.	**Building a Conceptual Model**
   	*	Provides us with a high-level overview of the business domain and the things involved in this domain.
 3.	**Building a Logical - Physical Model**
-	*	Using MySQL, i will define the entities and relationships.
+	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
 	*	Insert primary keys and foreign keys.
      	*	Specify the date type for each attribute.
      	*	Gaurantee flexibility for future change, use Normalization (1NF,2NF,3NF) forms to prevent data duplication.
