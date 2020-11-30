@@ -1,5 +1,6 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
+-----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
 	*	Summarized of all users’ requirements.
