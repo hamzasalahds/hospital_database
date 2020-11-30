@@ -38,13 +38,14 @@
 * Patient: 
   - Information: Full Name, Phone Number, Home Address, Contact Information and Relationship.
 * Symptom: 
+  - Symptom Name	
   - Symptoms Start Date
-  - Last Testing Date
-  - Testing Method
-  - Medicine Issued
+  - COVID Testing Date
+  - COVID Testing Method
+  - Medication Issued
 * Medication:
   - Name
-  - Serial Number
+  - Serial Number (10 Digit number code)
 * Medical Professional:
   - Doctor: Full Name
   - Nurse: Full Name
