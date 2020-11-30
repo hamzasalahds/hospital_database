@@ -1,6 +1,6 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
 This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
-##	Process	 ##
+##	<div align="center"> Process </div> 	 ##
 1.	**Requirements Gathering**
 	*	A summary of all users’ requirements 
 	*	interviewing Stakeholders/doctors/nurses/users.
@@ -18,7 +18,7 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
   	*	Implementation of the logical model, construction of a database using MySQL.
 ----------------------------------------------------------------------------------	
 
-##  <div align="center"> User Requirements 
+##  <div align="center"> User Requirements </div> 
 *	Nurse 1: *“I want to know the name of COVID patients, doctors that treated them, when they Last tested and method of testing. When was the patient exposed and where for tracking, signs, symptoms, and case severity?”*
 
 * 	Nurse 2: *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, room and floor they located at, we also do not want to have a lot of patients in our floors, we have limited beds and rooms.”*
