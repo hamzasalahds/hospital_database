@@ -14,7 +14,8 @@
 
 ##  Statement of Requirements ##
 
-#### This is a summary of all users’ requirements – as the intention is to develop a single shared database, the database should store the following information: ####
+#### This is a summary of all users’ requirements to develop a single shared database.
+######  The database should store the following information: ####
 * Patient: 
   - Information: Full Name, Phone Number, Home Address. 
 * Symptom: 
