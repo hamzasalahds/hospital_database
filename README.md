@@ -2,7 +2,7 @@
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
-	*	A summary of all users’ requirements.
+	*	Summarized of all users’ requirements.
 	*	Created A Statement of Requirements
 	
 
