@@ -8,7 +8,6 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 *	**Building Conceptual Model**
 ######  “What is required?” not “How is it achieved?” ######
-	
 *	**Building Logical Model**
 	*	Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
 	*	Insert primary key, foreign keys in this stage.
