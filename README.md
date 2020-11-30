@@ -2,22 +2,22 @@
 This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ###	Process	 ###
 * Requirements Gathering
- -  Statement of requirements is the result of this step and it is a document that includes what users want from a system. The document should give a concise summary of all users’ requirements – not just a collection of individuals’ requirements – as the intention is to develop a single shared database by doing the following:
-	  - interviewing Stakeholders/doctors/nurses/users.
-	  - Check existing forms, spreadsheets, databases, documents databases.
+	 -  Statement of requirements is the result of this step and it is a document that includes what users want from a system. The document should give a concise summary of all users’ requirements – not just a collection of individuals’ requirements – as the intention is to develop a single shared database by doing the following:
+	 	 - interviewing Stakeholders/doctors/nurses/users.
+	  	- Check existing forms, spreadsheets, databases, documents databases.
 
 * Building Conceptual Model 
 ######  “What is required?” not “How is it achieved?” ######
-  - Obtain a detailed description properties such as the possible entities.
-  - Provides us with a high-level overview of the business domain and the things involved in this domain. We use this to communicate with stakeholders.
+  	- Obtain a detailed description properties such as the possible entities.
+  	- Provides us with a high-level overview of the business domain and the things involved in this domain. We use this to communicate with stakeholders.
 * Building Logical Model 
-  - Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
-     - Insert primary key, foreign keys in this stage.
-     - which attribute type (char, int, varchar (50) etc..) to choose
-     - Database properties: flexibility for change, control of duplication and how best to represent the constraints.
-     -  Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
+  	- Logical Model/Schema is an abstract data model that shows our entities and relationships, determine the specific type of database system (network, relational, object-oriented) that is required.
+	- Insert primary key, foreign keys in this stage.
+     	- which attribute type (char, int, varchar (50) etc..) to choose
+     	- Database properties: flexibility for change, control of duplication and how best to represent the constraints.
+	-Second-cut designs: the collection of iterations that each involves a revision of the tables that lead to a new design and review it with appropriate personnel if it solves problems or not.
 * Building Physical Model 
-  - Implementation of (Physical Model) involves the construction of a database  using an RDBMS such as MySQL or PostgreSQL depending on the needs of the business each program has its ups and downs according to the specification of a logical schema.
+  	- Implementation of (Physical Model) involves the construction of a database  using an RDBMS such as MySQL or PostgreSQL depending on the needs of the business each program has its ups and downs according to the specification of a logical schema.
 ----------------------------------------------------------------------------------
 
 ##  User Requirements ##
