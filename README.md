@@ -54,9 +54,9 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 
 
 ##  Conceptual Model ##
-#### <div align="center"> A detailed description of the possible entities </div> ####
-<div align="center">![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)</div>
+#### <div align="center"> 	A detailed description of the possible entities </div> ####
+<div align="center">	![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/conceptual_model.png?raw=true)</div>
 
 ##  Logical/Physical MySQL Model ##
 #### <div align="center">The construction of a database using MySQL </div> ####
-<div align="center">![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)</div>
+<div align="center">	![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)</div>
