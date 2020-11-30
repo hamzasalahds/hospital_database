@@ -59,3 +59,22 @@ This database aims to detect hospital patients and their exposure to COVID-19 mi
 ##  Logical/Physical MySQL Model ##
 #### <div align="center">The construction of a database using MySQL </div> ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png?raw=true)
+
+Hello there !
+
+<div id="container">
+    <img />
+    https://github.com/HmSalah/COVID_case_tracker/blob/main/ER%20Diagram%20Models/Logical-Physical%20Model.png
+</div>
+
+Hi !
+
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
