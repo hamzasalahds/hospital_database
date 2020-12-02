@@ -11,7 +11,7 @@
 3.	**Building a Logical - Physical Model**
 	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
-     	*	Specified the date type for each attribute.
+     	*	Specified the data type for each attribute.
      	*	Gauranteed flexibility for future change, applied Normalization (1NF,2NF,3NF) forms to prevent data duplication.
 
 
