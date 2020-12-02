@@ -1,4 +1,4 @@
---------	Test history for all patients, the type of covid test and date/time of test and nurse first_name who administered the test.
+--	##	Test history for all patients, the type of covid test and date/time of test and nurse first_name who administered the test.
 
 CREATE OR REPLACE VIEW covid_test_history AS
 SELECT CONCAT(p.first_name," ", p.last_name) AS Covid_Patient, n.first_name AS Nurse, tm.name AS CovTest, tr.test_date AS Test_Date_Time
@@ -7,7 +7,7 @@ JOIN records_testing tr USING(nurse_id)
 JOIN records_patients p USING(patient_Id)
 JOIN testing_methods tm USING(method_id);
 
---------	All doctors and nurses who have treated covid patients.
+--	##	All doctors and nurses who have treated covid patients.
 
 CREATE OR REPLACE VIEW doctors_nurses_exposure AS
 SELECT CONCAT(d.first_name," ", d.last_name) AS Doctor, dsr.shift_start, dsr.shift_end, CONCAT(p.first_name," ", p.last_name) AS Covid_Patient,
