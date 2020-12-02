@@ -58,6 +58,6 @@
 
 ##	<div align="center"> 3- Logical/Physical MySQL Model </div>
 ####	<div align="center">The construction of the database using MySQL Workbench </div>
-<p align="center"> <img src="https://github.com/HmSalah/COVID_case_tracker/blob/8ca9b0f7e121966703e80fe131f033a94bb95dd6/ER%20Diagram%20Models/logical_physical_model.png"  alt="animated" /></p>
+<p align="center"> <img src=""  alt="animated" /></p>
 
 
