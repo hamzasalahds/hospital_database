@@ -2,7 +2,7 @@
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
-1.	**Requirements Gathering**
+1.	**[Requirements Gathering](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#--1--statement-of-requirements)**
 	*	Created a Statement of Requirements by summarizing all users’ requirements. 
 	
 2.	**Building a Conceptual Model**
