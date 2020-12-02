@@ -58,6 +58,6 @@
 #### <div align="center"> 	A detailed description of the possible entities </div> ####
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/b45d9f96c9cf6113863267a978870a092b45b986/ER%20Diagram%20Models/conceptual_model.png?raw=true)
 ##  <div align="center"> Logical/Physical MySQL Model </div>
-#### <div align="center">The construction of the database using MySQL </div>
+#### <div align="center">The construction of the database using MySQL Workbench </div>
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/9d3d2f6f2676a7d610b5e644c421f3066ffb4a85/ER%20Diagram%20Models/logical_physical_model.png?raw=true)
 
