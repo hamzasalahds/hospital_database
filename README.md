@@ -54,11 +54,11 @@
   - Room  #
 
 -----------------------------------------------------------------------------------
-<div align="center">  Conceptual Model </div>
-<div align="center"> 	A detailed description of the possible entities </div> 
+##	<div align="center">  Conceptual Model </div>
+####	<div align="center"> 	A detailed description of the possible entities </div> 
 <p align="center">  <img src="https://github.com/HmSalah/COVID_case_tracker/blob/889f18aefd219a4eafa80da7c1251c7364d597d5/ER%20Diagram%20Models/conceptual_model.png" alt="animated" /></p>
-<div align="center"> Logical/Physical MySQL Model </div>
-<div align="center">The construction of the database using MySQL Workbench </div>
+##	<div align="center"> Logical/Physical MySQL Model </div>
+####	<div align="center">The construction of the database using MySQL Workbench </div>
 <p align="center"> <img src="https://github.com/HmSalah/COVID_case_tracker/blob/8ca9b0f7e121966703e80fe131f033a94bb95dd6/ER%20Diagram%20Models/logical_physical_model.png"  alt="animated" /></p>
 
 
