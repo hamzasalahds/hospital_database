@@ -29,7 +29,7 @@
 * 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others.
 
 -----------------------------------------------------------------------------------	
-##  <div align="center">  Statement of Requirements 
+##  <div align="center">  1- Statement of Requirements 
 
 ###### <div align="center"> This is a summary of all users’ requirements to develop a single shared database.</div>
 
@@ -52,11 +52,11 @@
   - Room  #
 
 -----------------------------------------------------------------------------------
-##	<div align="center">  Conceptual Model </div>
+##	<div align="center"> 2- Conceptual Model </div>
 ####	<div align="center"> 	A detailed description of the possible entities & attributes </div> 
 <p align="center">  <img src="https://github.com/HmSalah/COVID_case_tracker/blob/889f18aefd219a4eafa80da7c1251c7364d597d5/ER%20Diagram%20Models/conceptual_model.png" alt="animated" /></p>
 
-##	<div align="center"> Logical/Physical MySQL Model </div>
+##	<div align="center"> 3- Logical/Physical MySQL Model </div>
 ####	<div align="center">The construction of the database using MySQL Workbench </div>
 <p align="center"> <img src="https://github.com/HmSalah/COVID_case_tracker/blob/8ca9b0f7e121966703e80fe131f033a94bb95dd6/ER%20Diagram%20Models/logical_physical_model.png"  alt="animated" /></p>
 
