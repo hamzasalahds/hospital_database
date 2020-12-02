@@ -4,7 +4,7 @@
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
 	*	Summarized all users’ requirements.
-	*	Created A Statement of Requirements.
+	*	Created a Statement of Requirements.
 	
 
 2.	**Building a Conceptual Model**
