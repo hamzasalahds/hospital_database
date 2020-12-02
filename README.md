@@ -4,8 +4,10 @@
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
 	*	Created a Statement of Requirements by summarizing all users’ requirements. 
+	
 2.	**Building a Conceptual Model**
   	*	Provided a high-level overview of the hospital domain and the things involved in this domain.
+	
 3.	**Building a Logical - Physical Model**
 	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
