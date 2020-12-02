@@ -59,5 +59,5 @@
 ![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/b45d9f96c9cf6113863267a978870a092b45b986/ER%20Diagram%20Models/conceptual_model.png?raw=true)
 ##  <div align="center"> Logical/Physical MySQL Model </div>
 #### <div align="center">The construction of the database using MySQL Workbench </div>
-![alt text](?raw=true)
+![alt text](https://github.com/HmSalah/COVID_case_tracker/blob/8ca9b0f7e121966703e80fe131f033a94bb95dd6/ER%20Diagram%20Models/logical_physical_model.png?raw=true)
 
