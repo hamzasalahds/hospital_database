@@ -50,8 +50,8 @@
   - Doctor: Full Name
   - Nurse: Full Name
 * **Admissions:**
-  - Floor #: Floors are numbered using a 2-digit standard starting with ‘01’ for the first floor and continue up for every floor above.
-  - Room  #: Rooms are numbered using a standard three-digit numbering scheme.
+  - Floor #
+  - Room  #
 
 -----------------------------------------------------------------------------------
 <div align="center">  Conceptual Model </div>
