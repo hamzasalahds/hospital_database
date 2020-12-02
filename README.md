@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**Requirements Gathering**
-	*	Summarized of all users’ requirements.
+	*	Summarized all users’ requirements.
 	*	Created A Statement of Requirements.
 	
 
