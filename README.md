@@ -42,8 +42,8 @@
   - COVID Testing Date
   - COVID Testing Method
 * **Treatment:**
-  - Name
-  - Date/Time
+  - Treatment Name
+  - Treatment Date/Time
 * **Medical Professional:**
   - Doctor: Full Name
   - Nurse: Full Name
