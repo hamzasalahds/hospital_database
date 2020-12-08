@@ -1,5 +1,5 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
-###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
+###	This database aims to help reduce COVID-19 exposure at hospitals by storing patients data minimizing disease transmission to and between medical professionals.
 ----------------------------------------------------------------------------------
 ###	<div align="center">Installing dependencies   </div> 
 *	MySQL Workbench >= 8.0.
