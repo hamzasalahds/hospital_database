@@ -5,15 +5,15 @@
 *	MySQL Workbench >= 8.0.
 *	Scripts included in the [SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL).
 ##	Download and setup
-*	1.Database Creation
+1.	Database Creation
 	1.	From MySQL Workbench open **create_db_hospital** script.
 	2.	Execute the script.
 	
-*	2.Patient Information
+2.	Patient Information
 	1. 	From MySQL Workbench open **patient_information** script.
 	2.	Execute the script.
 	
-*	3.	Stored procedures and views
+3.	Stored procedures and views
 	1. 	From file open **stored_procedures_views** script.
 	2.	Execute the script.
 -----------------------------------------------------------------------------------	
