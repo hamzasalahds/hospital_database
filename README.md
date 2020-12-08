@@ -8,7 +8,7 @@
 *	**Database Creation
 	1.	From MySQL Workbench open __create_db_hospital script.
 	2.	Execute the script.
-*	**Patient Information**:
+*	**Patient Information:
 	1. 	From MySQL Workbench open patient_information script.
 	2.	Execute the script.
 *	**Stored procedures and views
