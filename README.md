@@ -6,13 +6,13 @@
 *	Scripts included in the SQL code folder.
 ##	Download and setup
 *	Database Creation
-	1.	From MySQL Workbench open **create_db_hospital script.
+	1.	From MySQL Workbench open **create_db_hospital** script.
 	2.	Execute the script.
 *	Patient Information:
-	1. 	From MySQL Workbench open **patient_information script.
+	1. 	From MySQL Workbench open **patient_information** script.
 	2.	Execute the script.
 *	Stored procedures and views
-	1. 	From file open **stored_procedures_views
+	1. 	From file open **stored_procedures_views**
 	2.	Execute the script.
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
