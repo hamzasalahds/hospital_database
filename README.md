@@ -1,5 +1,5 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
-###	This project aims to help reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database can be used to store information of doctor patient interactions, admission dates and medication used.
+###	This project aims to help reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database can be used to store information of doctor patient interactions, admission dates and medication used providing staff with access to up-to-date, accurate information.
 ----------------------------------------------------------------------------------
 ###	<div align="center">Installing dependencies   </div> 
 *	MySQL Workbench >= 8.0.
