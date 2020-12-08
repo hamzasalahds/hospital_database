@@ -63,6 +63,7 @@
 * **Medical Professional:**
   - Doctor: Full Name
   - Nurse: Full Name
+  - Shift Start/End
 * **Admissions:**
   - Floor #
   - Room  #
