@@ -1,16 +1,17 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ----------------------------------------------------------------------------------
-##	Installation Process
-*	Download MySQL Workbench or MariaDB.
-*	Download the scripts included in the SQL code folder.
-*	Database Creation*
+##	Installing dependencies
+*	MySQL Workbench or MariaDB.
+*	Scripts included in the SQL code folder.
+##	Download and setup
+*	**Database Creation
 	1.	From MySQL Workbench open __create_db_hospital script.
 	2.	Execute the script.
-*	Patient Information*
+*	**Patient Information**:
 	1. 	From MySQL Workbench open patient_information script.
 	2.	Execute the script.
-*	stored procedures and views*
+*	**Stored procedures and views
 	1. 	From file open stored_procedures_views
 	2.	Execute the script.
 -----------------------------------------------------------------------------------	
