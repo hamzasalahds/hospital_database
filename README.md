@@ -2,7 +2,7 @@
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ----------------------------------------------------------------------------------
 ##	Installing dependencies
-*	MySQL Workbench or MariaDB.
+*	MySQL Workbench >= 8.0.
 *	Scripts included in the SQL code folder.
 ##	Download and setup
 *	Database Creation
