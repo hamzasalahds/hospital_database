@@ -4,13 +4,13 @@
 ##	Installation Process
 *	Download MySQL Workbench or MariaDB.
 *	Download the scripts included in the SQL code folder.
-**Database Creation*
+*	Database Creation*
 1.	From MySQL Workbench open __create_db_hospital script.
 2.	Execute the script.
-**Patient Information*
+*	Patient Information*
 1. 	From MySQL Workbench open patient_information script.
 2.	Execute the script.
-**stored procedures and views*
+*	stored procedures and views*
 1. 	From file open stored_procedures_views
 2.	Execute the script.
 -----------------------------------------------------------------------------------	
