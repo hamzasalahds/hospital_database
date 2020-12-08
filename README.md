@@ -6,16 +6,16 @@
 *	Scripts included in the [SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL).
 ##	Download and setup
 1.	Database Creation
-	1.	From MySQL Workbench open **create_db_hospital** script.
-	2.	Execute the script.
+	*	From MySQL Workbench open **create_db_hospital** script.
+	*	Execute the script.
 	
 2.	Patient Information
-	1. 	From MySQL Workbench open **patient_information** script.
-	2.	Execute the script.
+	*	From MySQL Workbench open **patient_information** script.
+	*	Execute the script.
 	
 3.	Stored procedures and views
-	1. 	From file open **stored_procedures_views** script.
-	2.	Execute the script.
+	*	From file open **stored_procedures_views** script.
+	*	Execute the script.
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**[Requirements Gathering](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-user-requirements-)**
