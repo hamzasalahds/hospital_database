@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------
 ##	Installing dependencies
 *	MySQL Workbench >= 8.0.
-*	Scripts included in the SQL code [This is an absolute link to a nested folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL)folder.
+*	Scripts included in the [SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL).
 ##	Download and setup
 *	Database Creation
 	1.	From MySQL Workbench open **create_db_hospital** script.
