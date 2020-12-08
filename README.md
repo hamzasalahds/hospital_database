@@ -5,14 +5,14 @@
 *	Download MySQL Workbench or MariaDB.
 *	Download the scripts included in the SQL code folder.
 *	Database Creation*
-1.	From MySQL Workbench open __create_db_hospital script.
-2.	Execute the script.
+1.		From MySQL Workbench open __create_db_hospital script.
+2.		Execute the script.
 *	Patient Information*
-1. 	From MySQL Workbench open patient_information script.
-2.	Execute the script.
+1. 		From MySQL Workbench open patient_information script.
+2.		Execute the script.
 *	stored procedures and views*
-1. 	From file open stored_procedures_views
-2.	Execute the script.
+1. 		From file open stored_procedures_views
+2.		Execute the script.
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**[Requirements Gathering](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-user-requirements-)**
