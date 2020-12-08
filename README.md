@@ -1,4 +1,4 @@
-# <div align="center">  Hospital Covid Case Tracker </div>
+# <div align="center">  Hospital COVID Case Tracker </div>
 ###	This project aims to help reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.
 ----------------------------------------------------------------------------------
 ###	<div align="center">Installing dependencies   </div> 
@@ -25,20 +25,20 @@
   	*	Provided a high-level overview of the hospital domain and the things involved in this domain.
 	
 3.	**[Building a Logical - Physical Model](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-3--logicalphysical-mysql-model-)**
-	*	Using MySQL, I created a Logical Model by definining the entities and relationships.
+	*	Using MySQL, I created a Logical Model by defining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
      	*	Specified the data type for each attribute.
-     	*	Gauranteed flexibility for future change, applied Normalization (1NF,2NF,3NF) forms to prevent data duplication.
+     	*	Guaranteed flexibility for future change, applied Normalization (1NF,2NF,3NF) forms to prevent data duplication.
 
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
-######	<div align="center"> Conducted a survey with actual nurses and lab technichians that work at hospitals to deterimine what they want from this database.  </div>
+######	<div align="center"> Conducted a survey with actual nurses and lab technicians that work at hospitals to determine what they want from this database.  </div>
 ### Questionnaire Survey
 *	**Nurse:** *“I want to know the name of COVID patients, their symptoms, the doctors that treated them and when they Last tested for COVID and method of testing.*
 * 	**Lab Technician:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, room and floor they located at, we also do not want to have a lot of patients in our floors, we have limited beds and rooms.”*
 
-* 	**Social Worker:** *“our department requests a database that stores phone numbers of patients work number and immediate family to advice them to get checked for COVID as well as quarantine."*
+* 	**Social Worker:** *“our department requests a database that stores phone numbers of patients work number and immediate family to advise them to get checked for COVID as well as quarantine."*
 
 * 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request a detailed info of doctors and staff who are and have treated COVID patients to limit the exposure of this virus.”*
 
