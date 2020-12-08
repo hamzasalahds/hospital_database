@@ -1,10 +1,10 @@
 # <div align="center">  Hospital Covid Case Tracker </div>
 ###	This database aims to detect hospital patients and their exposure to COVID-19 minimizing disease transmission to patients, medical professionals, and others.
 ----------------------------------------------------------------------------------
-##	Installing dependencies
+###	<div align="center">Installing dependencies   </div> 
 *	MySQL Workbench >= 8.0.
 *	Scripts included in the **[SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL)**.
-##	Download and setup
+###	<div align="center"> Download and setup  </div> 
 1.	Database Creation
 	*	From MySQL Workbench open **create_db_hospital.sql** script.
 	*	Execute the script.
