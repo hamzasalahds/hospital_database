@@ -1,10 +1,10 @@
 # <div align="center">  Hospital COVID Case Tracker </div>
 ###	This project aims to help reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.
 ----------------------------------------------------------------------------------
-###	<div align="center">Installing dependencies   </div> 
+###	<div align="center">Installing Dependencies   </div> 
 *	MySQL Workbench >= 8.0.
 *	Scripts included in the **[SQL Folder](https://github.com/HmSalah/COVID_case_tracker/tree/main/SQL)**.
-###	<div align="center"> Download and setup  </div> 
+###	<div align="center"> Download and Setup  </div> 
 1.	Database Creation
 	*	From MySQL Workbench open **create_db_hospital.sql** script.
 	*	Execute the script.
