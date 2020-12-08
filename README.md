@@ -31,7 +31,7 @@
 -----------------------------------------------------------------------------------	
 ##  <div align="center">  1- Statement of Requirements 
 
-###### <div align="center"> This is a summary of all users’ requirements to develop a single shared database.</div>
+###### <div align="center"> This summary of all users’ requirements.</div>
 
 * **Patient:** 
   - Information: Full Name, Phone Number, Home Address, Contact Information and Relationship.
