@@ -12,7 +12,7 @@
 	1. 	From MySQL Workbench open **patient_information** script.
 	2.	Execute the script.
 *	Stored procedures and views
-	1. 	From file open **stored_procedures_views**
+	1. 	From file open **stored_procedures_views** script.
 	2.	Execute the script.
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
