@@ -24,7 +24,7 @@
 2.	**[Building a Conceptual Model](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-2--conceptual-model-)**
   	*	Provided a high-level overview of the hospital domain and the things involved in this domain.
 	
-3.	**[Building a Logical - Physical Model](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-3--logicalphysical-mysql-model-)**
+3.	**[Building a Logical - Physical Model](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-3--logicalphysical-mysql-model-erd-)**
 	*	Using MySQL, I created a Logical Model by defining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
      	*	Specified the data type for each attribute.
