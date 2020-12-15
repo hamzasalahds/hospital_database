@@ -35,12 +35,12 @@
 ##  <div align="center"> User Requirements </div> 
 ######	<div align="center"> Conducted a survey with actual nurses and lab technicians that work at hospitals to determine what they want from this database.  </div>
 ### Questionnaire Survey
-*	**Nurse:** *“I want to know the name of COVID patients, their symptoms, the doctors that treated them and when they Last tested for COVID and method of testing.*
-* 	**Lab Technician:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, room and floor they located at, we also do not want to have a lot of patients in our floors, we have limited beds and rooms.”*
+*	**Nurse 1:** *“I want to know the name of COVID patients, their symptoms, doctors that treated them, inlcluding the date and method of their last COVID test.*
+* 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, and the room and floor they are located at. We also have limited rooms and beds for COVID patients.”*
 
 * 	**Social Worker:** *“our department requests a database that stores phone numbers of patients work number and immediate family to advise them to get checked for COVID as well as quarantine."*
 
-* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request a detailed info of doctors and staff who are and have treated COVID patients to limit the exposure of this virus.”*
+* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who have treated COVID patients to limit the exposure of this virus.”*
 
 * 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others.*
 
