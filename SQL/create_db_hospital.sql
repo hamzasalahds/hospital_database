@@ -7,6 +7,7 @@ SET character_set_client = utf8mb4 ;
 -- -----------------------------------------------------
 -- Table `hospital`.`Doctors`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Doctors`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Doctors` (
   `doctor_id` TINYINT NOT NULL AUTO_INCREMENT,
   `first_name` VARCHAR(50) NOT NULL,
@@ -18,6 +19,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Nurses`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Nurses`;          
 CREATE TABLE IF NOT EXISTS `hospital`.`Nurses` (
   `nurse_id` TINYINT NOT NULL AUTO_INCREMENT,
   `first_name` VARCHAR(50) NOT NULL,
@@ -29,6 +31,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Patients`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Patients`;              
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Patients` (
   `patient_id` SMALLINT NOT NULL AUTO_INCREMENT,
   `first_name` VARCHAR(50) NOT NULL,
@@ -59,6 +62,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Testing_Methods`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Testing_Methods`;               
 CREATE TABLE IF NOT EXISTS `hospital`.`Testing_Methods` (
   `method_id` TINYINT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(50) NOT NULL,
@@ -69,6 +73,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Testing`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Testing`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Testing` (
   `test_id` INT NOT NULL AUTO_INCREMENT,
   `test_date` DATETIME NOT NULL,
@@ -100,6 +105,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`COVID_Wing`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`COVID_Wing`;
 CREATE TABLE IF NOT EXISTS `hospital`.`COVID_Wing` (
   `floor` TINYINT NOT NULL,
   `room` SMALLINT NOT NULL,
@@ -110,6 +116,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Doctors_Shifts`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Doctors_Shifts`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Doctors_Shifts` (
   `shift_start` DATETIME NOT NULL,
   `shift_end` DATETIME NOT NULL,
@@ -127,6 +134,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Nurses_Shifts`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Nurses_Shifts`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Nurses_Shifts` (
   `shift_start` DATETIME NOT NULL,
   `shift_end` DATETIME NOT NULL,
@@ -144,6 +152,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Contact_Relationships`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Contact_Relationships`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Contact_Relationships` (
   `type_id` TINYINT NOT NULL AUTO_INCREMENT,
   `relationship_type` VARCHAR(50) NOT NULL,
@@ -154,6 +163,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Contact_Information`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Contact_Information`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Contact_Information` (
   `contact_id` SMALLINT NOT NULL AUTO_INCREMENT,
   `full_name` VARCHAR(50) NOT NULL,
@@ -172,6 +182,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Contacts`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Contacts`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Contacts` (
   `patient_id` SMALLINT NOT NULL,
   `contact_id` SMALLINT NOT NULL,
@@ -194,6 +205,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Symptoms`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Symptoms`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Symptoms` (
   `symptom_Id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(50) NOT NULL,
@@ -204,6 +216,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Symptoms`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Symptoms`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Symptoms` (
   `patient_id` SMALLINT NOT NULL,
   `symptom_Id` INT NOT NULL,
@@ -226,6 +239,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Covid_Treatments`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Covid_Treatments`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Covid_Treatments` (
   `treatment_Id` TINYINT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(50) NOT NULL,
@@ -236,6 +250,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Treatments`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Treatments`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Treatments` (
   `patient_id` SMALLINT NOT NULL,
   `treatment_Id` TINYINT NOT NULL,
@@ -266,6 +281,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `hospital`.`Records_Admissions`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `hospital`.`Records_Admissions`;
 CREATE TABLE IF NOT EXISTS `hospital`.`Records_Admissions` (
   `patient_id` SMALLINT NOT NULL,
   `floor` TINYINT NOT NULL,
