@@ -33,7 +33,7 @@
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
-######	<div align="center"> Conducted a survey with actual nurses and lab technicians that work at hospitals to determine what they want from this database.  </div>
+######	<div align="center"> Conducted a survey with nurses to determine what they want from this database.  </div>
 ### Questionnaire Survey
 *	**Nurse 1:** *“I want to know the name of COVID patients, their symptoms, doctors that treated them, inlcluding the date and method of their last COVID test.*
 * 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, and the room and floor they are located at. We also have limited rooms and beds for COVID patients.”*
