@@ -41,7 +41,7 @@
 
 * 	**Social Worker:** *“Our department requests a database that stores phone numbers of patients work number and immediate family to advise them to get checked for COVID as well as quarantine."*
 
-* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who have treat COVID patients each day and grant our staff access to this information to limit the exposure of this virus.”*
+* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who treat COVID patients each day and grant our staff access to this information to limit the exposure of this virus.”*
 
 * 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others.*
 
