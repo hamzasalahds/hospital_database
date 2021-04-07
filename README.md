@@ -81,10 +81,8 @@
 -----------------------------------------------------------------------------------
 ##	<div align="center"> WorkBench </div>
 ####	<div align="center">  Stored Procedures & Views </div> 
-<p align="center">  <img src="![database1](https://user-images.githubusercontent.com/74623220/113910617-a8598c80-979e-11eb-902f-d0a77dec82ca.png)
-" alt="animated" /></p>
-
-<img src="![database1](https://user-images.githubusercontent.com/74623220/113911075-29b11f00-979f-11eb-9638-fd634e865b08.png)
-"  alt="animated" /></p>
+![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
+![database1](https://user-images.githubusercontent.com/74623220/113911132-39306800-979f-11eb-8d70-cd588bc35cf1.png)
+![database2](https://user-images.githubusercontent.com/74623220/113911136-39c8fe80-979f-11eb-9d6c-d0dd6f1c4822.png)
 
 
