@@ -78,3 +78,17 @@
 <p align="center"> <img src="https://github.com/HmSalah/COVID_case_tracker/blob/57e29dae1aea4948381600842c3591f0aa836aa6/ER%20Diagram%20Models/logical_physical_model.png"  alt="animated" /></p>
 
 
+-----------------------------------------------------------------------------------
+##	<div align="center"> WorkBench </div>
+####	<div align="center">  Stored Procedures & Views </div> 
+<p align="center">  <img src="![database1](https://user-images.githubusercontent.com/74623220/113910617-a8598c80-979e-11eb-902f-d0a77dec82ca.png)
+" alt="animated" /></p>
+
+<p align="center">  <img src="![database2](https://user-images.githubusercontent.com/74623220/113910688-bc9d8980-979e-11eb-8af6-010de922cf20.png)
+")
+" alt="animated" /></p>
+
+<p align="center">  <img src="![database3](https://user-images.githubusercontent.com/74623220/113910725-c7581e80-979e-11eb-8b2b-611d10814934.png)
+")
+" alt="animated" /></p>
+
