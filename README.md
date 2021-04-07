@@ -36,11 +36,12 @@
 ######	<div align="center"> Conducted a survey with nurses to determine what they want from this database.  </div>
 ### Questionnaire Survey
 *	**Nurse 1:** *“I want to know the name of COVID patients, their symptoms, doctors that treated them, including the date and method of their last COVID test so that medical staff can access this information and to better protect ourselves from exposure and plan ahead.*
-* 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and have their names, numbers, and the room and floor they are located at because we have limited rooms and beds for COVID patients.”*
 
-* 	**Social Worker:** *“our department requests a database that stores phone numbers of patients work number and immediate family to advise them to get checked for COVID as well as quarantine."*
+* 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and storing information such as names, numbers, and room / floor number they are located at because we have limited rooms and beds for COVID patients.”*
 
-* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who have treated COVID patients on daily and grant staff access to this information to limit the exposure of this virus.”*
+* 	**Social Worker:** *“Our department requests a database that stores phone numbers of patients work number and immediate family to advise them to get checked for COVID as well as quarantine."*
+
+* 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who have treat COVID patients each day and grant our staff access to this information to limit the exposure of this virus.”*
 
 * 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others.*
 
