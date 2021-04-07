@@ -81,7 +81,7 @@
 
 -----------------------------------------------------------------------------------
 ##	<div align="center"> Hospital Database in action! </div>
-####	<div align="center">  Pass Parameters to a Stored Procedures. </div> 
+####	<div align="center">  Pass Parameters to a Stored Procedures. Like viewing patients in a single zipcode. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
 -----------------------------------------------------------------------------------	
 ####	<div align="center"> Access to detailed information using Views </div> 
