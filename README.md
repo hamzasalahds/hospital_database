@@ -81,10 +81,10 @@
 
 -----------------------------------------------------------------------------------
 ##	<div align="center"> Hospital Database in action! </div>
-####	<div align="center"> Finding specific information for each patient has become an easy task! </div> 
+####	<div align="center">  Pass Parameters to a Stored Procedures. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
 -----------------------------------------------------------------------------------	
-####	<div align="center"> Access to patient/doctor information using Views! </div> 
+####	<div align="center"> Access to detailed information using Views </div> 
 ![database1](https://user-images.githubusercontent.com/74623220/113911132-39306800-979f-11eb-8d70-cd588bc35cf1.png)
 
 
