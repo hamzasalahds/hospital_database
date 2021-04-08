@@ -74,7 +74,7 @@
 ####	<div align="center"> 	A detailed description of the possible entities & attributes </div> 
 <p align="center">  <img src="https://github.com/HmSalah/COVID_case_tracker/blob/889f18aefd219a4eafa80da7c1251c7364d597d5/ER%20Diagram%20Models/conceptual_model.png" alt="animated" /></p>
 
-##	<div align="center"> 3- Logical/Physical MySQL EER Model (Enhanced Entity Relationship Diagram) </div>
+##	<div align="center"> 3- Logical/Physical EER Model (Enhanced Entity Relationship Diagram) </div>
 ####	<div align="center">The construction of the database using MySQL Workbench Model Editor  </div>
 <p align="center"> <img src="https://github.com/HmSalah/COVID_case_tracker/blob/57e29dae1aea4948381600842c3591f0aa836aa6/ER%20Diagram%20Models/logical_physical_model.png"  alt="animated" /></p>
 
