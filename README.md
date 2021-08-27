@@ -83,6 +83,9 @@
 ##	<div align="center"> Hospital Database in action! </div>
 ####	<div align="center">  Pass Parameters to a Stored Procedure to return a result set, Like viewing patients in a single zipcode. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
+	
+	![symptoms](https://user-images.githubusercontent.com/74623220/131191632-14bf913a-bf0b-4dbb-b8a2-df9ac514838a.png)
+
 -----------------------------------------------------------------------------------	
 ####	<div align="center"> Get access to information from multiple tables in one place using Views </div> 
 ![database1](https://user-images.githubusercontent.com/74623220/113911132-39306800-979f-11eb-8d70-cd588bc35cf1.png)
