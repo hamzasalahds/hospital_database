@@ -83,6 +83,7 @@
 ##	<div align="center"> Hospital Database in action! </div>
 ####	<div align="center">  Pass Parameters to a Stored Procedure to return a result set, Like viewing patients in a single zipcode. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
+####	<div align="center">  Patient Symptoms </div> 	
 ![database3](https://user-images.githubusercontent.com/74623220/131191802-4a9e95c2-ceac-4b8d-96f6-5056021be165.png)
 
 -----------------------------------------------------------------------------------	
