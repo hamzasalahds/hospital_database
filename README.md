@@ -88,8 +88,7 @@
 
 -----------------------------------------------------------------------------------	
 ####	<div align="center"> Get access to information from multiple tables in one place using Views </div> 
-![daysbetween view](https://user-images.githubusercontent.com/74623220/131191955-3beb180e-e9e2-4ff4-b245-279c1ebda7d3.png)
-![view12](https://user-images.githubusercontent.com/74623220/131191960-0ff5cb7c-11e4-493a-8ef6-73fe8fd81a21.png)
+![daysbetween view](https://user-images.githubusercontent.com/74623220/131191955-3beb180e-e9e2-4ff4-b245-279c1ebda7d3.png) ![view12](https://user-images.githubusercontent.com/74623220/131191960-0ff5cb7c-11e4-493a-8ef6-73fe8fd81a21.png)
 ![database1](https://user-images.githubusercontent.com/74623220/113911132-39306800-979f-11eb-8d70-cd588bc35cf1.png)
 
 
