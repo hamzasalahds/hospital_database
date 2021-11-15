@@ -33,7 +33,7 @@
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
-######	<div align="center"> Conducted a survey with nurses to determine what they want from this database.  </div>
+######	<div align="center"> Conducted a survey with HCP staff to determine what they want from this database.  </div>
 ### Questionnaire Survey
 *	**Nurse 1:** *“I want to know the name of COVID patients, their symptoms, doctors that treated them, including the date and method of their last COVID test so that medical staff can access this information and to better protect ourselves from exposure and plan.*
 
