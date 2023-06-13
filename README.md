@@ -1,4 +1,4 @@
-# <div align="center">  Hospital COVID Case Tracker </div>
+# <div align="center">  Relational Database for Improved Patient Care and Reduced Exposure Risk </div>
 ###	The goal of this project is to create a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.
 ----------------------------------------------------------------------------------
 ###	<div align="center">Installing Dependencies   </div> 
@@ -27,23 +27,23 @@
 3.	**[Building a Logical - Physical Model](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-3--logicalphysical-mysql-model-erd-)**
 	*	Using MySQL, I created a Logical Model by defining the entities and relationships.
 	*	Inserted primary keys and foreign keys.
-     	*	Specified the data type for each attribute.
+     	*	Specify the data type for each attribute.
      	*	Guaranteed flexibility for future change, applied Normalization (1NF,2NF,3NF) forms to prevent data duplication.
 
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center"> User Requirements </div> 
-######	<div align="center"> Conducted a survey with HCP staff to determine what they want from this database.  </div>
+######	<div align="center"> Surveyed with HCP staff to determine what they want from this database.  </div>
 ### Questionnaire Survey
 *	**Nurse 1:** *“I want to know the name of COVID patients, their symptoms, doctors that treated them, including the date and method of their last COVID test so that medical staff can access this information and to better protect ourselves from exposure and plan.*
 
 * 	**Nurse 2:** *“We want to limit COVID-19 exposure on our floor by identifying all COVID patients and storing information such as names, numbers, and room/floor number they are located at because we have limited rooms and beds for COVID patients.”*
 
-* 	**Social Worker:** *“Our department requests a database that stores phone numbers of patients' work numbers and immediate family to advise them to get checked for COVID as well as quarantine."*
+* 	**Social Worker:** *“Our department requests a database that stores phone numbers of patients' work numbers and immediate family to advise them to get checked for COVID and quarantine."*
 
 * 	**Doctor:** *“I am looking for the safety of my fellow doctors and nurses. COVID is extremely contagious, therefore I request detailed info of doctors and staff who treat COVID patients each day and grant our staff access to this information to limit the exposure of this virus.”*
 
-* 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help with minimizing the amount of exposure to others.*
+* 	**Hospital CEO:** *“We are trying to improve our system and operate effectively during the COVID-19 pandemic and follow infection prevention and control recommendations tailored to their setting minimizing disease transmission to patients, HCP, and others. If you could develop a database that can help minimize the amount of exposure to others.*
 
 -----------------------------------------------------------------------------------	
 ##  <div align="center">  1- Statement of Requirements 
@@ -51,7 +51,7 @@
 ###### <div align="center"> This summary of all users’ requirements.</div>
 
 * **Patient:** 
-  - Information: Full Name, Phone Number, Home Address, Contact Information and Relationship.
+  - Information: Full Name, Phone Number, Home Address, Contact Information, and Relationship.
 * **Symptom:** 
   - Symptom Name	
   - Symptoms Start Date
@@ -81,7 +81,7 @@
 
 -----------------------------------------------------------------------------------
 ##	<div align="center"> Hospital Database in action! </div>
-####	<div align="center">  Pass Parameters to a Stored Procedure to return a result set, Like viewing patients in a single zipcode. </div> 
+####	<div align="center">  Pass Parameters to a Stored Procedure to return a result set, Like viewing patients in a single zip code. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
 ####	<div align="center">  Patient Symptoms </div> 	
 ![database3](https://user-images.githubusercontent.com/74623220/131191802-4a9e95c2-ceac-4b8d-96f6-5056021be165.png)
