@@ -9,7 +9,7 @@ JOIN Records_Patients p USING(patient_Id)
 JOIN Testing_Methods tm USING(method_id);
 
 --	--------------------------------------------------------------------------------------------------------------------------
---	##	All doctors and nurses who have treated covid patients.
+--	##	All doctors and nurses who treated COVID-19 patients between January-2-2020 and January-12-2020.
 
 CREATE OR REPLACE VIEW doctors_nurses_exposure AS
 SELECT CONCAT(d.first_name," ", d.last_name) AS Doctor, dsr.shift_start, dsr.shift_end, CONCAT(p.first_name," ", p.last_name) AS Covid_Patient,
