@@ -18,6 +18,12 @@
 3.	Stored procedures and views
 	*	From MySQL Workbench open the **stored_procedures_views.sql** script.
 	*	Execute the script.
+ 	* 	Using MYSQL To verify if the sql_mode=only_full_group_by is activated for, you should execute the following query:
+		* **SELECT @@sql_mode;   //localhost**
+	 	* Output: IGNORE_SPACE, STRICT_TRANS, ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION (If you don't see it, it means it is deactivated)
+	* 	To Fix this to avoid any errors type in:
+  		* SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode, 'ONLY_FULL_GROUP_BY', ''));
+      		* Restart Client
 -----------------------------------------------------------------------------------	
 ##	<div align="center"> Database Modeling Process </div> 	 ##
 1.	**[Requirements Gathering](https://github.com/HmSalah/COVID_case_tracker/blob/main/README.md#-user-requirements-)**
