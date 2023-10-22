@@ -12,13 +12,15 @@ JOIN Testing_Methods tm USING(method_id);
 --	##	Patient info including name and city their symptoms and testing methods with prescribed treatments.
 
 CREATE OR REPLACE VIEW patient_symptoms_with_location AS
-SELECT rp.patient_id, rp.first_name, rp.last_name, rp.city, s.name AS symptom, tm.name AS testing_method ,ct.name AS treatment FROM records_patients rp
+SELECT rp.patient_id, rp.first_name, rp.last_name, rp.city, s.name AS symptom, ra.date_of_admission, tm.name AS testing_method ,ct.name AS treatment FROM records_patients rp
+JOIN records_admissions as ra USING(patient_id)
 JOIN records_symptoms rs USING(patient_id)
 JOIN symptoms s USING(symptom_id)
 JOIN records_treatments rt USING(patient_id)
 JOIN covid_treatments ct USING(treatment_id)
 JOIN records_testing t USING(patient_id)
 JOIN testing_methods tm USING(method_Id);
+
 
 --	--------------------------------------------------------------------------------------------------------------------------
 --	##	All doctors and nurses who treated COVID-19 patients between January-2-2020 and January-12-2020.
