@@ -1,5 +1,7 @@
-# <div align="center">  Relational Database for Improved Patient Care and Reduced Exposure Risk </div>
-###	The goal of this project is to create a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.
+# <div align="center">  Relational Database </div>
+## <div align="center">  Improved Patient Care and Reduced Exposure Risk </div>
+
+### <div align="center">  The goal of this project is to create a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.</div>
 
 ###### *Note: The story and characters in this project are not based on real people or events. Any resemblance to real people or events is purely coincidental.*
 ----------------------------------------------------------------------------------
