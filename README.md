@@ -1,6 +1,6 @@
-**For a detailed backstory on how the pandemic inspired me to design this hospital database, please read my article on Medium: [How the Pandemic Led Me to Design a Hospital Database](https://medium.com/@hamzamsalahds/how-the-pandemic-led-me-to-design-a-hospital-database-d9bb643c44af).**
-
 ## <div align="center">  COVID-19 Patient Data Management System </div>
+
+**For a detailed backstory on how the pandemic inspired me to design this hospital database, please read my article on Medium: [How the Pandemic Led Me to Design a Hospital Database](https://medium.com/@hamzamsalahds/how-the-pandemic-led-me-to-design-a-hospital-database-d9bb643c44af).**
 
 ### <div align="center">  The goal of this project is to create a solution to reduce COVID-19 exposure at hospitals and minimize disease transmission to and between medical professionals. This database provides medical staff with access to up-to-date, accurate patient information such as admission dates, symptoms, treatments, and the assigned medical professional.</div>
 
