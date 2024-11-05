@@ -95,17 +95,24 @@
 
 -----------------------------------------------------------------------------------
 ##	<div align="center"> Hospital Database in action! </div>
+####	<div align="center"> Showcase of views and stored procedures in the database using MySQL workbench</div> 
+##### <div align="center"> ![1_LAyTWRLURu7UKGoSmCsbbA](https://github.com/user-attachments/assets/7d2b0ef6-c329-45a8-8c91-40f67ad84dc2)</div> 
+
+-----------------------------------------------------------------------------------	
 ####	<div align="center">  Pass Parameters to a Stored Procedure to return a result set, Like viewing patients in a single zip code. </div> 
 ![database3](https://user-images.githubusercontent.com/74623220/113911129-39306800-979f-11eb-8c3e-e58a95a8f623.png)
+
+-----------------------------------------------------------------------------------	
 ####	<div align="center">  Patient Symptoms </div> 	
 ![database3](https://user-images.githubusercontent.com/74623220/131191802-4a9e95c2-ceac-4b8d-96f6-5056021be165.png)
 
 -----------------------------------------------------------------------------------	
 ####	<div align="center"> Get access to information from multiple tables in one place using Views </div> 
 ![daysbetween view](https://user-images.githubusercontent.com/74623220/131191955-3beb180e-e9e2-4ff4-b245-279c1ebda7d3.png) 
+
+-----------------------------------------------------------------------------------	
 ##### <div align="center"> HCP COVID Exposure </div>
 ![database1](https://user-images.githubusercontent.com/74623220/113911132-39306800-979f-11eb-8d70-cd588bc35cf1.png)
-
 
 
 
